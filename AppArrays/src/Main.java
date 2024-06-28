@@ -23,8 +23,6 @@ public class Main {
         //Hacer doble bucle for/for
         String user = config[XPROD][CUSER];
 
-
-
         //CLAVE: DESARROLLO
 
         //System.out.println(config[3][1]);
